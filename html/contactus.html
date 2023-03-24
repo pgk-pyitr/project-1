@@ -22,10 +22,42 @@
         </div>
     </header>
     <div class="topnav">
-        <li><a class="hover" href="/home.html">Home</a></li>
-        <li><a class="hover" href="/html/products.html">Products</a></li>
-        <li><a class="hover" href="/html/contactus.html">Contact Us</a></li>
+        <a class="hover" href="/home.html">Home</a>
+        <a class="hover" href="/html/products.html">Products</a>
+        <a class="hover" href="/html/contactus.html">Contact Us</a>
     </div>
-     
+    
+    <div>
+        <p class="contact-reason">
+            For Consignments or Questions about any product.
+        </p>
+    </div>
+
+    <div class="container-1">
+        <form action="https://formspree.io/f/mnqybgww" method="POST">
+          <label for="fname">
+            <br>First Name
+          <input class="text" name="firstname" placeholder="Your name" required>
+          </label>
+          <label for="lname">
+            <br>Last Name
+          <input class="text" name="lastname" placeholder="Your last name" required>
+          </label>
+          <label>
+            <br>Your E-mail:
+            <input class="email" name="email" placeholder="Your E-mail" required>
+          </label>
+          <label>
+            <br><br>Your Message:
+            <textarea class="message" name="message" placeholder="Enter your message here"></textarea>
+          </label>
+        </form>
+         
+        <button class="submit">Send</button>
+    </div>
+
+        <footer class="footer">
+        <p>Sneaker Reserve &reg;</p>
+        </footer>
 </body>
 </html>
