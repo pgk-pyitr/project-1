@@ -15,13 +15,13 @@
      border-radius: 5px;
      display: inline-block;
      position: relative;
-     right: -1300px;
+     right: -1190px;
      top: -200px;
      
 }
  
 .yourcart {
-     border-color: #010101;
+     border-color: gold;
      color: rgb(0, 0, 0);
      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }

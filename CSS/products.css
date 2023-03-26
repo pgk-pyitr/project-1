@@ -15,13 +15,13 @@
      border-radius: 5px;
      display: inline-block;
      position: relative;
-     right: -1300px;
+     right: -1190px;
      top: -200px;
      
  }
  
 .yourcart {
-     border-color: #010101;
+     border-color: gold;
      color: rgb(0, 0, 0);
      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
@@ -63,7 +63,7 @@
 }
  
 .shoe-card-1 {
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.9);
     max-width: 300px;
     margin: auto;
     text-align: center;
@@ -99,7 +99,7 @@
 }
 
 .shoe-card-2 {
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.9);
     max-width: 300px;
     margin: auto;
     text-align: center;
@@ -125,7 +125,7 @@
 }
 
 .shoe-card-3 {
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.9);
     max-width: 300px;
     margin: auto;
     text-align: center;
